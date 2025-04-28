@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src=".github/logo.png" alt="Projeto E-commerce Aplicando Regras de Devops" >
-</h1>
 
 <p>
   <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04cc5e?style=flat-square">
