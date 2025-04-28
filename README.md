@@ -1,7 +1,7 @@
 <h3 align="center"> PROJETO E-COMMERCE (ARQUITETURA DEVOPS) </h3>
 
 <br>
-<h3 align="center"> Amazon ELB>
+<h3 align="center"> Amazon ELB
 <p align="center">
   <img src=".github/elb.png" alt="AWS ELB">
 </p>
