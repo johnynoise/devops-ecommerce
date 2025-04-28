@@ -1,13 +1,13 @@
 <h3 align="center"> PROJETO E-COMMERCE (ARQUITETURA DEVOPS) </h3>
 
 <br>
-<h3 align="center"> Amazon ELB/h3>
+<h3 align="center"> Amazon ELB>
 <p align="center">
   <img src=".github/elb.png" alt="AWS ELB">
 </p>
 <h3 align="center"> Amazon CloudFront</h3>
 <p align="center">
-  <img src=".github/cloudfronts.png" alt="AWS CLOUDFRONT">
+  <img src=".github/cloudfront.png" alt="AWS CLOUDFRONT">
 </p>
 <h3 align="center"> Amazon RDS</h3>
 <p align="center">
