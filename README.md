@@ -1,5 +1,6 @@
 <h3 align="center"> PROJETO E-COMMERCE (ARQUITETURA DEVOPS) </h3>
-
+<h3>DIAGRAMA DO PROJETO</h3>
+<img src=".github/DIAGRAMA.png" alt="AWS CLOUDFRONT">
 <br>
 <h3 align="center"> Amazon ELB
 <p align="center">
