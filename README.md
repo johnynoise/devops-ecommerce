@@ -1,6 +1,5 @@
 
 <p>
-  <a href="https://opensource.org/licenses/MIT">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
   </a>
   
