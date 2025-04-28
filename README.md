@@ -1,9 +1,4 @@
-
-<p>
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
-  </a>
-  
-</p>
+<h3> Projeto E-commerce aplicando regras de DEVOPS </h3>
 
 <br>
 
