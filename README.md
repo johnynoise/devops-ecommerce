@@ -1,4 +1,4 @@
-<h3> Projeto E-commerce aplicando regras de DEVOPS </h3>
+<h3 align="center"> Projeto E-commerce aplicando regras de DEVOPS </h3>
 
 <br>
 
