@@ -1,16 +1,4 @@
-<h1 align="center">
-  <img src=".github/logo.png" alt="Projeto E-commerce Aplicando Regras de Devops" >
-</h1>
-
-<p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-04cc5e?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/launchstore?color=04cc5e&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/launchstore?color=04cc5e&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-04cc5e?style=flat-square">
-  </a>
-  
-</p>
+<h3 align="center"> Projeto E-commerce aplicando regras de DEVOPS </h3>
 
 <br>
 
